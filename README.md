@@ -8,7 +8,6 @@
 * Programming Languages
 * Turing-Completeness
 * Low-Level Programming
-* Memory Management
 * And more...
 
 ## My Favorite Projects
