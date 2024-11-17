@@ -1,19 +1,19 @@
-### こんにちは！
+### Hello!
 
-私の名前はアメリア・ジョンソンです。 (My name is Amelia Johnson)
+## My name is Amelia
 
-## I'm interested in...
+Here are my interests:
+*  Compilers
+*  Interpreters
+*  Programming Languages
+*  Software Development
+*  Rust, Zig, C, etc.
 
-* Compilers
-* Programming Languages
-* Turing-Completeness
-* Low-Level Programming
-* And more...
-
-## My Favorite Projects
-
-**At the moment, all of my repositories are my personal projects!**
-* Codebook-2: Programmable CLI stack-based calculator!
+Here are my current favorite projects:
+* zmachine
+* codebook3
+* codebook2
+* JavaMine
 
 <!--
 **amelia-online/amelia-online** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
