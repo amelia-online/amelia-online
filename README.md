@@ -12,8 +12,8 @@ Here are my interests:
 Here are my current favorite projects:
 * zmachine
 * zasm
+* cpporth
 * codebook3
-* JavaMine
 
 <!--
 **amelia-online/amelia-online** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
